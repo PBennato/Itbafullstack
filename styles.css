@@ -1,0 +1,27 @@
+h2{
+    text-align: center
+}
+.container{
+    font-family: arial;
+    display: flex;
+    justify-content:center;
+    border: 1px solid black;
+    }
+
+div > span {
+    margin: auto;
+    border: 1px solid black;
+}
+.navbar{
+    display: flex;
+
+}
+.navbar > h1{
+    
+    margin: auto;
+ }
+ 
+.logo{
+    width: 20rem;
+    height: auto;
+}
